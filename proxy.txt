@@ -1,9 +1,10 @@
+gradle.org
+gradle.com
+gradle-dn.com
+telemetr.io
 dm5.com
 cdndm5.com
 cdnmanhua.net
 manhuaren.com
 mangadex.org
-gradle.org
-gradle.com
-gradle-dn.com
 supertop.co
