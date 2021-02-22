@@ -1,6 +1,8 @@
 gradle.org
 gradle.com
 gradle-dn.com
+telemetr.io
+androidfilehost.com
 copymanga.com
 mangafunc.fun
 manhuaren.com
