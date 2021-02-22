@@ -1,3 +1,6 @@
+gradle.org
+gradle.com
+gradle-dn.com
 copymanga.com
 mangafunc.fun
 manhuaren.com
